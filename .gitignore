@@ -75,3 +75,5 @@ crashlytics-build.properties
 Library/
 Logs/
 *.tif
+UserSettings/
+*.cache
