@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 2374667624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9d789020631dc372d8e6f6e66dcb87c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da0def7108e120b52ad3bd914bfc789b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9d789020631dc372d8e6f6e66dcb87c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e47a20a28c3465c9e978f827ff3840ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: -90872408, guid: 8ce866908f644d44bb6bd525b0d8afb1, type: 3}
+- Class: 114
+  Script: {fileID: -654586296, guid: 8ce866908f644d44bb6bd525b0d8afb1, type: 3}
+- Class: 114
+  Script: {fileID: -487851603, guid: 8ce866908f644d44bb6bd525b0d8afb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+Assets:
+- Assets/Items/Speaker/old-speaker-turned-on-90396.mp3
+- Assets/scrap/Pottery1/Pottery1.asset
+- Assets/scrap/PastryDish/PastryDish.asset
+- Assets/scrap/Television/Television.asset
+- Assets/Items/Speaker/audioclip6.mp3
+- Assets/scrap/LargePottery3/LargePottery3.asset
+- Assets/scrap/PCMonitor/PCMonitor.asset
+- Assets/scrap/Camera/Camera.asset
+- Assets/scrap/SniperScope/SniperScope.asset
+- Assets/scrap/BeanBagChair/BeanBagChair.asset
+- Assets/scrap/LouisVuitton/LouisVuitton.asset
+- Assets/scrap/Rolex/Rolex.asset
+- Assets/scrap/mp5/mp5.asset
+- Assets/scrap/MiniAirHockeyTable/MiniAirHockeyTable.asset
+- Assets/Items/Speaker/audioclip1.mp3
+- Assets/scrap/GoldenApple/GoldenApple.asset
+- Assets/scrap/Kettle/Kettle.asset
+- Assets/scrap/Dumbbell/Dumbbell.asset
+- Assets/scrap/ModelCar4/ModelCar4.asset
+- Assets/scrap/BirdStatue2/BirdStatue2.asset
+- Assets/scrap/BirdStatue1/BirdStatue1.asset
+- Assets/scrap/Pistol/Pistol.asset
+- Assets/scrap/ModelCar3/ModelCar3.asset
+- Assets/scrap/CoffeeMaker/CoffeeMaker.asset
+- Assets/scrap/ModelCar5/ModelCar5.asset
+- Assets/scrap/MiniFridge/MiniFridge.asset
+- Assets/scrap/PersonStatue/PersonStatue.asset
+- Assets/Items/Speaker/audioclip4.mp3
+- Assets/scrap/Microwave/Microwave.asset
+- Assets/scrap/LargeToyCar/LargeToyCar.asset
+- Assets/scrap/RetroTV/RetroTV.asset
+- Assets/Items/Speaker/audioclip2.mp3
+- Assets/scrap/ModelCar2/ModelCar2.asset
+- Assets/scrap/LargePottery1/LargePottery1.asset
+- Assets/scrap/DinnerPlate/DinnerPlate.asset
+- Assets/scrap/DiningChair/DiningChair.asset
+- Assets/scrap/KetchupBottle/KetchupBottle.asset
+- Assets/Items/Speaker/audioclip3.mp3
+- Assets/scrap/CultMask/CultMask.asset
+- Assets/scrap/LargePottery2/LargePottery2.asset
+- Assets/scrap/ComputerKeyboard/ComputerKeyboard.asset
+- Assets/Items/Speaker/audioclip5.mp3
+- Assets/scrap/Loafers/Loafers.asset
+- Assets/scrap/shield/shield.asset
+- Assets/Items/Speaker/Speaker.asset
+- Assets/scrap/ModelCar1/ModelCar1.asset
+- Assets/scrap/ToiletPaper/ToiletPaper.asset
+Dependencies: []
