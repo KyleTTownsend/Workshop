@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 428858989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6fb88739c6e6a4e7a2ae2202ccc7436
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b3f8fc4269b657630377e4623eaf85b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d6fb88739c6e6a4e7a2ae2202ccc7436
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: -654586296, guid: 8ce866908f644d44bb6bd525b0d8afb1, type: 3}
+- Class: 114
+  Script: {fileID: -487851603, guid: 8ce866908f644d44bb6bd525b0d8afb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+Assets:
+- Assets/scrap/Nikes.asset
+Dependencies: []
