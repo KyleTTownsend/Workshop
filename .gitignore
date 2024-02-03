@@ -78,3 +78,5 @@ Logs/
 UserSettings/
 *.cache
 assets/Real Materials/
+bin/
+obj/
